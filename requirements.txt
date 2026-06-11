@@ -1,7 +1,9 @@
-streamlit
-numpy
-tensorflow
-librosa
+streamlit==1.32.0
+numpy==1.26.4
+pandas==2.1.4
+scikit-learn==1.4.2
+librosa==0.10.1
+soundfile
 folium
 streamlit-folium
-pickle-mixin
+protobuf<5
