@@ -1,0 +1,7 @@
+streamlit
+numpy
+tensorflow
+librosa
+folium
+streamlit-folium
+pickle-mixin
