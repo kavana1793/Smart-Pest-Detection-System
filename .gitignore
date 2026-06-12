@@ -2,3 +2,8 @@
 *.npy
 *.h5
 temp.wav
+dataset/
+data/
+*.wav
+*.mp3
+*.flac

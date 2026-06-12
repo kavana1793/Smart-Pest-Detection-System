@@ -1,9 +1,8 @@
 streamlit==1.32.0
-numpy==1.26.4
+numpy==1.24.4
 pandas==2.1.4
 scikit-learn==1.4.2
 librosa==0.10.1
-soundfile
-folium
-streamlit-folium
-protobuf<5
+soundfile==0.12.1
+folium==0.15.1
+streamlit-folium==0.18.0
